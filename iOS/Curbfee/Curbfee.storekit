@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "prod1",
+      "localizations": [
+        {
+          "description": "Payment reminders and multi-year payment history",
+          "displayName": "Curbfee Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "curbfee.pro",
+      "referenceName": "Curbfee Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
